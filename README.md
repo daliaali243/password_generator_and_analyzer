@@ -5,9 +5,7 @@ Overview
 This is a Password Analyzer and Generator desktop application built with Python and Tkinter. The app helps users generate strong passwords, analyze password strength, and check if a password has been leaked in known data breaches using the Have I Been Pwned API.
 
 The project is designed to improve user experience, reduce mistakes, and provide a clear understanding of password security.
-
-⸻
-
+ ________
 Features
  • Password Strength Analysis
  • Scores passwords from 0 to 100
@@ -39,8 +37,7 @@ Features
  • Click Copy to copy it to clipboard
  • Click Save to save it to passwords.txt
  4. Use Paste to insert a copied password into the analysis field.
-
-⸻
+ ________
 
 Technologies Used
  • Python 3
