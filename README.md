@@ -1,3 +1,9 @@
+### 1. main interface
+![Main Interface](images/interface.png)
+this screen shows the main window where the user enter a password.
+
+
+
 Password Analyzer & Generator
 
 Overview
