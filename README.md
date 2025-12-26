@@ -1,5 +1,5 @@
 ### 1. main interface
-![interface](images/interface.png)
+![interface](https://github.com/daliaali243/password_generator_and_analyzer/blob/48a82b60487ea9227f7bb53ed77dda2e65d3e121/interface.png)
 this screen shows the main window where the user enter a password.
 
 
