@@ -1,5 +1,5 @@
 ### 1. main interface
-![Main Interface](images/interface.png)
+![interface](images/interface.png)
 this screen shows the main window where the user enter a password.
 
 
