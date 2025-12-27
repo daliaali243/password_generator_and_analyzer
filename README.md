@@ -20,9 +20,12 @@ when the password is week, the result is dispayed in the red to clearly warn the
 
 ### 4. Generate strong password
 ![generate password](https://github.com/daliaali243/password_generator_and_analyzer/blob/4eb1818a13000a2984cf42ffe4b70764eb13ea76/generate_password.png)
+
+
 If the pssword is week, the application allows the user to generate a strong password automatically.
 Password Analyzer & Generator
 
+---
 Overview
 
 This is a Password Analyzer and Generator desktop application built with Python and Tkinter. The app helps users generate strong passwords, analyze password strength, and check if a password has been leaked in known data breaches using the Have I Been Pwned API.
