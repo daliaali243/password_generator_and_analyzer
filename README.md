@@ -4,7 +4,7 @@
 
 this screen shows the main window where the user enter a password.
 ---
-###2. week password result
+### 2. week password result
 ![week password](https://github.com/daliaali243/password_generator_and_analyzer/blob/24b3a8945d177af36e690c625651027d537dd64e/week_password%20(2).png)
 
 
