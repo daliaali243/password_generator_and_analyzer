@@ -11,6 +11,12 @@ this screen shows the main window where the user enter a password.
 when the password is week, the result is dispayed in the red to clearly warn the user.
 ---
 
+### 3. strong password result
+
+
+![strong password](https://github.com/daliaali243/password_generator_and_analyzer/blob/fd4426969575693537e36833694cf910ba86b7e5/strong_password%20(2).png)
+---
+
 Password Analyzer & Generator
 
 Overview
