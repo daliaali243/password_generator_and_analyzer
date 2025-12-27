@@ -1,22 +1,25 @@
-### 1. main interface
+### 1. Main interface
 ![interface](https://github.com/daliaali243/password_generator_and_analyzer/blob/48a82b60487ea9227f7bb53ed77dda2e65d3e121/interface.png)
 
-
 this screen shows the main window where the user enter a password.
+
 ---
-### 2. week password result
+
+### 2. Week password result
 ![week password](https://github.com/daliaali243/password_generator_and_analyzer/blob/24b3a8945d177af36e690c625651027d537dd64e/week_password%20(2).png)
 
-
 when the password is week, the result is dispayed in the red to clearly warn the user.
----
+-
+--
 
-### 3. strong password result
+### 3. Strong password result
 
 
 ![strong password](https://github.com/daliaali243/password_generator_and_analyzer/blob/fd4426969575693537e36833694cf910ba86b7e5/strong_password%20(2).png)
 ---
 
+### 4. Generate strong password
+If the pssword is week, the application allows the user to generate a strong password automatically.
 Password Analyzer & Generator
 
 Overview
