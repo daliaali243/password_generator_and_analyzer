@@ -9,8 +9,8 @@ this screen shows the main window where the user enter a password.
 ![week password](https://github.com/daliaali243/password_generator_and_analyzer/blob/24b3a8945d177af36e690c625651027d537dd64e/week_password%20(2).png)
 
 when the password is week, the result is dispayed in the red to clearly warn the user.
--
---
+
+---
 
 ### 3. Strong password result
 
@@ -19,6 +19,7 @@ when the password is week, the result is dispayed in the red to clearly warn the
 ---
 
 ### 4. Generate strong password
+![generate password](https://github.com/daliaali243/password_generator_and_analyzer/blob/4eb1818a13000a2984cf42ffe4b70764eb13ea76/generate_password.png)
 If the pssword is week, the application allows the user to generate a strong password automatically.
 Password Analyzer & Generator
 
