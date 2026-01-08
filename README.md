@@ -78,8 +78,8 @@ This design improves code clarity, scalability, and maintainability.
 
 
 Technologies
- • Python
- • Tkinter
- • Object-Oriented Programming
- • Have I Been Pwned API
- • SHA-1 hashing
+ - Python
+ - Tkinter
+ - Object-Oriented Programming
+ - Have I Been Pwned API
+ - SHA-1 hashing
