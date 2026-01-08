@@ -37,7 +37,7 @@ This is a Password Analyzer and Generator built using Python and Tkinter, follow
 The project helps users evaluate password strength, understand common security weaknesses, and generate strong passwords using real-world cybersecurity practices.
 ---
 
-###Key Features
+### Key Features
  • Analyze password strength based on:
  • Length
  • Uppercase and lowercase letters
@@ -51,14 +51,14 @@ The project helps users evaluate password strength, understand common security w
  
 ---
 
-###Security Design
+### Security Design
 
 Before being checked online, the password is hashed using SHA-1, and only a partial hash is sent to the Have I Been Pwned API.
 This ensures the real password is never shared, following international security standards.
 
 ---
 
-###Technical Design
+### Technical Design
 
 The project is implemented using Python classes, applying Object-Oriented Programming to separate responsibilities such as:
  • Password analysis
@@ -70,7 +70,7 @@ This design improves code clarity, scalability, and maintainability.
 
 ---
 
-###Future Improvements
+### Future Improvements
  • Integrate the system as a reusable security service across different applications
  • Add intelligent risk prediction using machine learning
  • Extend the project to web and mobile platforms
