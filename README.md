@@ -61,19 +61,19 @@ This ensures the real password is never shared, following international security
 ### Technical Design
 
 The project is implemented using Python classes, applying Object-Oriented Programming to separate responsibilities such as:
- • Password analysis
- • Password generation
- • API communication
- • User interface handling
+ - Password analysis
+ - Password generation
+ - API communication
+ - User interface handling
 
 This design improves code clarity, scalability, and maintainability.
 
 ---
 
 ### Future Improvements
- • Integrate the system as a reusable security service across different applications
- • Add intelligent risk prediction using machine learning
- • Extend the project to web and mobile platforms
+ - Integrate the system as a reusable security service across different applications
+ - Add intelligent risk prediction using machine learning
+ - Extend the project to web and mobile platforms
 
 
 
