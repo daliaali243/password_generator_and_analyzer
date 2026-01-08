@@ -26,46 +26,61 @@ If the pssword is week, the application allows the user to generate a strong pas
 Password Analyzer & Generator
 
 ---
+
+
+🔐 Password Analyzer and Generator
+
 Overview
 
-This is a Password Analyzer and Generator desktop application built with Python and Tkinter. The app helps users generate strong passwords, analyze password strength, and check if a password has been leaked in known data breaches using the Have I Been Pwned API.
+This is a Password Analyzer and Generator built using Python and Tkinter, following Object-Oriented Programming (OOP) principles.
 
-The project is designed to improve user experience, reduce mistakes, and provide a clear understanding of password security.
- ________
-Features
- • Password Strength Analysis
- • Scores passwords from 0 to 100
- • Categorizes passwords as Weak, Good, or Strong
- • Highlights missing elements (uppercase, lowercase, digits, symbols)
- • Color-coded feedback for visual clarity
- • Password Breach Check (API Integration)
- • Uses the Have I Been Pwned API
- • Detects if a password has appeared in known breaches
- • Password Generator
- • Generates strong random passwords with required complexity
- • Displays password directly in the interface
- • Buttons to Copy or Save the generated password
- • Clipboard & Paste Integration
- • Copy generated password with a single click
- • Paste directly into the analysis entry field for quick testing
+The project helps users evaluate password strength, understand common security weaknesses, and generate strong passwords using real-world cybersecurity practices.
 
+⸻
 
- ________
- Usage
- 1. Enter a password in the input field and click Analyze Password.
- 2. The app will display:
- • Password strength score
- • Strength category (Weak, Good, Strong) with color
- • Recommendations for improvement
- • API breach check result
- 3. Generate a strong password:
- • Click Generate to create a password
- • Click Copy to copy it to clipboard
- • Click Save to save it to passwords.txt
- 4. Use Paste to insert a copied password into the analysis field.
- ________
+Key Features
+ • Analyze password strength based on:
+ • Length
+ • Uppercase and lowercase letters
+ • Numbers
+ • Special characters
+ • Score passwords from 0 to 100 and classify them as Weak, Good, or Strong
+ • Visual feedback using color indicators
+ • Check passwords against known data breaches using Have I Been Pwned
+ • Secure password generation with letters, numbers, and symbols
+ • Copy, paste, and save generated passwords
 
-Technologies Used
- • Python 3
- • Tkinter (GUI)
- • Requests (API requests)
+⸻
+
+Security Design
+
+Before being checked online, the password is hashed using SHA-1, and only a partial hash is sent to the Have I Been Pwned API.
+This ensures the real password is never shared, following international security standards.
+
+⸻
+
+Technical Design
+
+The project is implemented using Python classes, applying Object-Oriented Programming to separate responsibilities such as:
+ • Password analysis
+ • Password generation
+ • API communication
+ • User interface handling
+
+This design improves code clarity, scalability, and maintainability.
+
+⸻
+
+Future Improvements
+ • Integrate the system as a reusable security service across different applications
+ • Add intelligent risk prediction using machine learning
+ • Extend the project to web and mobile platforms
+
+⸻
+
+Technologies
+ • Python
+ • Tkinter
+ • Object-Oriented Programming
+ • Have I Been Pwned API
+ • SHA-1 hashing
