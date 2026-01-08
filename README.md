@@ -38,16 +38,16 @@ The project helps users evaluate password strength, understand common security w
 ---
 
 ### Key Features
-- • Analyze password strength based on:
-- • Length
- - • Uppercase and lowercase letters
- • Numbers
- • Special characters
- • Score passwords from 0 to 100 and classify them as Weak, Good, or Strong
- • Visual feedback using color indicators
- • Check passwords against known data breaches using Have I Been Pwned
- • Secure password generation with letters, numbers, and symbols
- • Copy, paste, and save generated passwords
+-  Analyze password strength based on:
+-  Length
+- Uppercase and lowercase letters
+- Numbers
+- Special characters
+- Score passwords from 0 to 100 and classify them as Weak, Good, or Strong
+- Visual feedback using color indicators
+- Check passwords against known data breaches using Have I Been Pwned
+- Secure password generation with letters, numbers, and symbols
+- Copy, paste, and save generated passwords
  
 ---
 
