@@ -38,8 +38,8 @@ The project helps users evaluate password strength, understand common security w
 ---
 
 ### Key Features
- • Analyze password strength based on:
- • Length
+-• Analyze password strength based on:
+- • Length
  • Uppercase and lowercase letters
  • Numbers
  • Special characters
